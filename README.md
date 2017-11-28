@@ -10,5 +10,6 @@ https://archive.ics.uci.edu/ml/datasets/phishing+websites#] It has 30 features &
 is a short description for each feature in the data set:
 
 **Results:**
-Achieved AUC & Accuracy score of 0.95 using full feature SVM.
-Achieved AUC score of 0.99 using VotingClassifiers.
+1) Achieved AUC & Accuracy score of 0.95 using full feature SVM.
+
+2) Achieved AUC score of 0.99 using VotingClassifiers.
